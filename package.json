@@ -1,0 +1,44 @@
+{
+  "name": "comp229.004.m2022",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.4.2",
+    "morgan": "~1.9.1",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
+  },
+  "description": "COMP229.004 - Class Examples",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JViniX/COMP229.004.M2022.git"
+  },
+  "keywords": [
+    "COMP229",
+    "Section",
+    "004",
+    "MEAN",
+    "Express",
+    "MongoDB",
+    "Backend"
+  ],
+  "author": "Julio Vinicius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JViniX/COMP229.004.M2022/issues"
+  },
+  "homepage": "https://github.com/JViniX/COMP229.004.M2022#readme"
+}
